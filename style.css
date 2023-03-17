@@ -1,0 +1,11 @@
+body {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#ana {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
